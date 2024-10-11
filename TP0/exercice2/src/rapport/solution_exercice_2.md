@@ -9,7 +9,7 @@ Le principe SOLID qui n'est pas respecté dans le code est le **principe de resp
 
 Voici le diagramme de classe :
 
-![Diagramme de classe](diagrammeDeClasse.jpg)
+![Diagramme de classe](ClassDiagram1.png)
 
 Le diagramme de classe reflète une structure plus modulaire et respecte les principes SOLID en séparant les responsabilités des différentes classes.
 
